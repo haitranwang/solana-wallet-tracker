@@ -1,0 +1,13 @@
+{
+  "rpc_endpoint": "https://api.mainnet-beta.solana.com",
+  "ws_endpoint": "wss://api.mainnet-beta.solana.com",
+  "wallets": [
+    "Replace_With_Wallet_Address1",
+    "Replace_With_Wallet_Address2"
+  ],
+  "tokens": [
+    "Replace_With_Token_Mint1",
+    "Replace_With_Token_Mint2"
+  ],
+  "log_level": "info"
+}
